@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-manager/static/css/main.5c17ab0f.css",
+    "main.js": "/task-manager/static/js/main.55e7df9d.js",
+    "static/media/check.png": "/task-manager/static/media/check.bc89a5a2496e443604a3.png",
+    "static/media/keyboard-key-enter.png": "/task-manager/static/media/keyboard-key-enter.1e089257abb849aead9e.png",
+    "index.html": "/task-manager/index.html",
+    "main.5c17ab0f.css.map": "/task-manager/static/css/main.5c17ab0f.css.map",
+    "main.55e7df9d.js.map": "/task-manager/static/js/main.55e7df9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c17ab0f.css",
+    "static/js/main.55e7df9d.js"
+  ]
+}
